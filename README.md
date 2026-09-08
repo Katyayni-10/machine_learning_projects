@@ -1,4 +1,4 @@
-# machine_learning_projects
+
 # My Machine Learning Projects
 
 A collection of end-to-end ML projects covering supervised, unsupervised, and reinforcement learning. Every project includes the dataset, a trained model (`.pkl`), and an interactive **Streamlit** app (`app.py`) to demo predictions.
