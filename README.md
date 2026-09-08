@@ -10,8 +10,7 @@ my-ml-projects/
 ├── breast_cancer_prediction/
 │   ├── data/               # dataset
 │   ├── model.pkl           # trained model
-│   ├── app.py               # streamlit app
-│   └── README.md
+│   └── app.py              # streamlit app
 ├── california_housing/
 ├── customer_churn_prediction/
 ├── diabetes_prediction/
@@ -80,7 +79,6 @@ project-name/
 ├── data/            # raw / processed dataset used for training
 ├── model.pkl         # serialized trained model
 ├── app.py             # Streamlit app for interactive predictions
-└── requirements.txt   # project-specific dependencies
 ```
 
 ## 📫 Contact
